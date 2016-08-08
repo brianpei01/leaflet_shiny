@@ -1,6 +1,6 @@
 library(shiny)
 library(leaflet)
-Carecenterbyregion <- read.csv("leaflet_shiny/shiny/dataCarecenterbyregion.csv")
+Carecenterbyregion <- read.csv("leaflet_shiny/shiny/data/Carecenterbyregion.csv")
 shinyServer(function(input, output, session){
   
   lats <- reactive({
