@@ -1,0 +1,19 @@
+Company,Age_factor,Age,Totalusers
+Spotify,1,0-18,1886279
+Spotify,2,19-28,3402216
+Spotify,3,29-38,4194670
+Spotify,4,39-48,2922117
+Spotify,5,49-58,1533283
+Spotify,6,59+,1435267
+Apple Music,1,0-18,1532879
+Apple Music,2,19-28,2957688
+Apple Music,3,29-38,2914870
+Apple Music,4,39-48,1786895
+Apple Music,5,49-58,957888
+Apple Music,6,59+,1009920
+Tidal,1,0-18,910906
+Tidal,2,19-28,1314421
+Tidal,3,29-38,1165352
+Tidal,4,39-48,801422
+Tidal,5,49-58,512221
+Tidal,6,59+,143221
